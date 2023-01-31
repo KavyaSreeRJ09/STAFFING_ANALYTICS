@@ -12,18 +12,18 @@
 	•Predictions
 
 # Tools used:
-•	Jupyter Notebook
-•	Streamlit
+	•Jupyter Notebook
+	•Streamlit
 
 # Installations required:
-•	In command prompt (Jupyter Notebook/Visual Studio)
-•	conda create myenv
-•	conda activate myenv 
-•	pip install streamlit
-•	pip install pandas
-•	pip install seaborn
-•	pip install matplotlib
-•	Run the choice.py file by using (streamlit run choice.py) in the command prompt
+	•In command prompt (Jupyter Notebook/Visual Studio)
+	•conda create myenv
+	•conda activate myenv 
+	•pip install streamlit
+	•pip install pandas
+	•pip install seaborn
+	•pip install matplotlib
+	•Run the choice.py file by using (streamlit run choice.py) in the command prompt
   
 # Output:
 
