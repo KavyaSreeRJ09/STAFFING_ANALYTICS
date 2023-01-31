@@ -1,15 +1,15 @@
 # STAFFING_ANALYTICS
 
 # Introduction:
-	This project is based on how a company decides about promotion based on employee’s skills. Machine Learning concepts like Clustering, Decision Tree, K-Nearest Neighbour are used to interpret the employees performance. Each algorithm infers different aspects of the process. I have also attached a portion of an Eligibility test, which shows if an employee is eligible to be promoted based on his skill levels.
-	Here a webpage is done using streamlit and connected it to our Python code. In this webpage, you can see the visualizations using different types of plots and can also make prediction by attending the eligibility test. 
+ This project is based on how a company decides about promotion based on employee’s skills. Machine Learning concepts like Clustering, Decision Tree, K-Nearest Neighbour are used to interpret the employees performance. Each algorithm infers different aspects of the process. I have also attached a portion of an Eligibility test, which shows if an employee is eligible to be promoted based on his skill levels.
+ Here a webpage is done using streamlit and connected it to our Python code. In this webpage, you can see the visualizations using different types of plots and can also make prediction by attending the eligibility test. 
   
 # Technologies used:
-•	Clustering
-•	Decision Tree
-•	K-Nearest Neighbour
-•	Graphs and Plots 
-• Predictions
+	•Clustering
+	•Decision Tree
+	•K-Nearest Neighbour
+	•Graphs and Plots 
+	•Predictions
 
 # Tools used:
 •	Jupyter Notebook
