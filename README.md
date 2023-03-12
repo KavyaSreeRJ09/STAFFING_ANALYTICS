@@ -27,7 +27,7 @@
 	•pip install pandas
 	•pip install seaborn
 	•pip install matplotlib
-	•Run the choice.py file by using (streamlit run choice.py) in the command prompt
+	•Run the choice.py file by using (streamlit run Analytics.py) in the command prompt
   
 # Output:
 
