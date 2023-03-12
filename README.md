@@ -1,9 +1,15 @@
 # STAFFING_ANALYTICS
 
-# Introduction:
+# Abstraction:
  This project is based on how a company decides about promotion based on employee’s skills. Machine Learning concepts like Clustering, Decision Tree, K-Nearest Neighbour are used to interpret the employees performance. Each algorithm infers different aspects of the process. I have also attached a portion of an Eligibility test, which shows if an employee is eligible to be promoted based on his skill levels.
  Here a webpage is done using streamlit and connected it to our Python code. In this webpage, you can see the visualizations using different types of plots and can also make prediction by attending the eligibility test. 
-  
+ 
+#Introduction:
+ This project is a Python script that uses the Streamlit library to build a web application for staffing analytics. The code imports several libraries, including Pandas, Seaborn, Matplotlib, Numpy, Scikit-learn, and PIL (Python Imaging Library).
+ The code reads in a CSV file named "HRProjectDataset.csv" containing employee data and uses LabelEncoder from Scikit-learn to encode the categorical variables into numerical values. It then selects the relevant columns for feature and target variables and splits the data into training and testing datasets.
+ The code then trains a K-Nearest Neighbors (KNN) classifier and a Decision Tree classifier on the data and computes their accuracy scores. It also performs hierarchical clustering using the AgglomerativeClustering algorithm and visualizes the resulting clusters using Seaborn and Matplotlib.
+ The web application built with Streamlit allows users to choose between different machine learning models (KNN, Decision Tree, Clustering) and visualize the results. The application includes interactive widgets such as checkboxes and select boxes that enable users to explore the dataset and models in real-time. Finally, the application uses Streamlit to display bar and pie plots of the data.
+
 # Technologies used:
 	•Clustering
 	•Decision Tree
